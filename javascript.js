@@ -2,6 +2,7 @@ let result =document.getElementById('result');
 let search =document.getElementById('searchbtn');
 let cityref =document.getElementById('city');
 let key ='1817820e669f124589091e8bfa02ce26'
+let entername =document.getElementById('name');
 
 let getweather= ()=>{
 
@@ -9,6 +10,9 @@ let getweather= ()=>{
 
     if(cityvalue.length == 0){
         result.innerHTML="<h1>Enter the city name</h1>"
+        
+        
+        
 
 
     }

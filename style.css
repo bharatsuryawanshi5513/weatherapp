@@ -27,7 +27,8 @@ body{
     text-align: center;
     width: 211px;
     border-radius: 40px;
-    background-color: #bbc9c8;
+    background-color:white;
+    font-family: "Times New Roman", Times, serif;
     flex-wrap: wrap;
 }
 
