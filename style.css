@@ -1,0 +1,85 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-image: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+}
+.contaner{
+    margin: 14px;
+    padding: 54px;
+    text-align: center;
+    flex-wrap: wrap;
+}
+
+.search-city{
+    text-align: center;
+    flex-wrap: wrap;
+    
+}
+
+
+.inpu-field input{
+    height: 33px;
+    text-align: center;
+    width: 211px;
+    border-radius: 40px;
+    background-image: linear-gradient(to top, #ff0844 0%, #ffb199 100%);
+    flex-wrap: wrap;
+}
+
+
+.inpu-field button{
+
+    background-color: blue;
+    height: 33px;
+    width: 100px;
+    border-radius: 40px;
+    background-image: linear-gradient(to top, #a8edea 0%, #fed6e3 100%);
+
+
+}
+
+.search-city-cloud{
+    margin: 5px;
+    padding: 24px;
+    text-align: center;
+    flex-wrap: wrap;
+
+    
+}
+.weather-one{
+
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+   
+}
+.weather-cloud{
+    margin: 9px;
+    margin-top: 5px;
+    height: 157px;
+    width: 218px;
+    flex-wrap: wrap;
+
+}
+.weather-cloud img{
+  height: 82px;
+  width: 82px;
+  flex-wrap: wrap;
+}
+
+
+.weather-two{
+    display: flex;
+    margin: 10px;
+    flex-wrap: wrap;
+   justify-content: center;
+}
+
+.weather-two h1 label{
+
+    margin-left:20px
+}
