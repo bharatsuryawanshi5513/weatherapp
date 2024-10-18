@@ -21,6 +21,7 @@ body{
 
 
 .inpu-field input{
+    margin: 10px;
     height: 33px;
     text-align: center;
     width: 211px;
